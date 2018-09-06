@@ -14,7 +14,7 @@ public class MatMul {
 		   q=sc.nextInt();
 		   b=new int[p][q];
 		   c=new int[m][q];
-		   System.out.println(" enter elements of 1st matrix");
+		   System.out.println(" en elements of 1st matrix");
 		   for(i=0;i<m;i++)
 		   {
 			   for(j=0;j<n;j++)
